@@ -1,4 +1,4 @@
-👋 Hi, I'm @TCL0001, co-founder of LightLABS and PRYSM Network. We're building a next-gen ICS hub blockchain focused on supporting consumer chains, cutting costs, bridging PoW assets into DeFi, and extending security to chains beyond the ecosystem.
+👋 Hi, I'm @TCL0001, co-founder of LightLABS and PRYSM Network. We're building a next-gen ICS hub focused on supporting consumer chains, cutting costs, bridging PoW assets into DeFi, and extending security to chains beyond the ecosystem.
 
 Reach me here:
 
